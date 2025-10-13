@@ -1,12 +1,19 @@
 <h1 align="center">Hi 👋, I'm Michael</h1>
-<h3 align="center">A passionate frontend developer from France, currently embracing the journey as a beginner in the learning process 🚀</h3>
+<h3 align="center">
+  Frontend developer from France, passionate about creating clean, accessible and sustainable web experiences 🚀  
+</h3>
+
+<p align="center">
+  <em>Currently growing my skills and building my experience as a motivated frontend developer in training 💡</em>
+</p>
 
 ---
 
 ### 🌱 Currently Learning
-- **JavaScript**
-- **React**
-- **Clean & responsive web design**
+- **JavaScript** & **React**
+- **Web accessibility (a11y)** ♿
+- **Web ecodesign & performance optimization** 🌍
+- **Clean & responsive UI development**
 
 ---
 
@@ -19,38 +26,61 @@
 
 ---
 
-### 🧰 Languages & Tools
+### 🧰 Languages 
 <p align="left">
+  <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
   <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+
+ ### ⚙️ Code quality
+  <p align="left">
+  <!-- Code quality design -->
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+
+ ### 🎨 Design
+  <p align="left">
+  <!-- Design -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
+
+  ### 🔧 Tools
+  <p align="left">
+  <!-- Tools -->  
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+
+
+</p>
+
+
+
+---
+
+### 📊 GitHub Stats  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=MTDev2024&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for MTDev2024" />
 </p>
 
 ---
 
-### 🧠 About Me
-- 🔭 I’m currently working on **frontend projects with responsive design**
-- 🎯 My goal is to master **React** and modern web development best practices
-- ⚡ Fun fact: I love understanding how small UI details improve user experience ✨
-
----
-
-### 📊 GitHub Stats
+### 📈 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MichaelTakbou&show_icons=true&theme=tokyonight" alt="Michael's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages for MTDev2024" />
 </p>
 
 ---
 
-### 📈 Most Used Languages
+### 🔥 GitHub Streak  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MichaelTakbou&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=MTDev2024&theme=tokyonight&hide_border=true" alt="GitHub Streak for MTDev2024" />
+</p>
+
+---
+
+### 🗓️ Contribution Graph  
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MTDev2024&theme=tokyo-night&hide_border=true" alt="Contribution graph for MTDev2024" />
 </p>
