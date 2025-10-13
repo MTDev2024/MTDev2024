@@ -31,9 +31,10 @@
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
-  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="TailwindCSS" />
+  
 
  ### ⚙️ Code quality
   <p align="left">
@@ -49,12 +50,20 @@
   ### 🔧 Tools
   <p align="left">
   <!-- Tools -->  
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
 
 
 </p>
 
+### 🛠️ Web Performance & Accessibility Tools
+<p align="left">
+  <img src="https://img.shields.io/badge/LightHouse-424242?style=for-the-badge&logo=lighthouse&logoColor=white" alt="LightHouse" />
+  <img src="https://img.shields.io/badge/Wave-FF9900?style=for-the-badge&logo=webaccessibility&logoColor=white" alt="Wave" />
+  <img src="https://img.shields.io/badge/Ecometer-28A745?style=for-the-badge&logo=eco-friendly&logoColor=white" alt="Ecometer" />
+  <img src="https://img.shields.io/badge/Indexmeter-0057B8?style=for-the-badge&logo=indexing&logoColor=white" alt="Indexmeter" />
+</p>
 
 
 ---
