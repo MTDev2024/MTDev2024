@@ -4,7 +4,7 @@
 </h3>
 
 <p align="center">
-  <em>Currently growing my skills and building my experience as a motivated frontend developer in training 💡</em>
+  <em>Currently growing my skills and building my experience as a motivated frontend developer in training </em>
 </p>
 
 ---
@@ -42,12 +42,12 @@
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" alt="ESLint" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" alt="Prettier" />
 
- ### 🎨 Design
+ ### Design
   <p align="left">
   <!-- Design -->
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" />
 
-  ### 🔧 Tools
+  ### Tools
   <p align="left">
   <!-- Tools -->  
   <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VSCode" />
@@ -57,7 +57,7 @@
 
 </p>
 
-### 🛠️ Web Performance & Accessibility Tools
+### Web Performance & Accessibility Tools
 <p align="left">
   <img src="https://img.shields.io/badge/LightHouse-424242?style=for-the-badge&logo=lighthouse&logoColor=white" alt="LightHouse" />
   <img src="https://img.shields.io/badge/Wave-FF9900?style=for-the-badge&logo=webaccessibility&logoColor=white" alt="Wave" />
