@@ -1,6 +1,6 @@
-<h1 align="center">Hi 👋, I'm Michael</h1>
+<h1 align="center">Hi, I'm Michael</h1>
 <h3 align="center">
-  Frontend developer from France, passionate about creating clean, accessible and sustainable web experiences 🚀  
+  Frontend developer from France, passionate about creating clean, accessible and sustainable web experiences  
 </h3>
 
 <p align="center">
@@ -9,7 +9,7 @@
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 - **JavaScript** & **React**
 - **Web accessibility (a11y)** ♿
 - **Web ecodesign & performance optimization** 🌍
@@ -17,7 +17,7 @@
 
 ---
 
-### 💼 Connect with Me
+### Connect with Me
 <p align="left">
   <a href="https://linkedin.com/in/michael-takbou-4a87601ab" target="_blank" rel="noreferrer">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
@@ -26,7 +26,7 @@
 
 ---
 
-### 🧰 Languages 
+### Languages 
 <p align="left">
   <!-- Frontend -->
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -68,14 +68,14 @@
 
 ---
 
-### 📊 GitHub Stats  
+### GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=MTDev2024&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats for MTDev2024" />
 </p>
 
 ---
 
-### 📈 Most Used Languages  
+### Most Used Languages  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MTDev2024&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages for MTDev2024" />
 </p>
@@ -89,7 +89,7 @@
 
 ---
 
-### 🗓️ Contribution Graph  
+### Contribution Graph  
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MTDev2024&theme=tokyo-night&hide_border=true" alt="Contribution graph for MTDev2024" />
 </p>
