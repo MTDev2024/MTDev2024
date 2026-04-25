@@ -60,7 +60,7 @@ Lighthouse · Wave · Ecometer - because fast and accessible sites are better fo
 
 | Project | Live | Stack | Description |
 |---|---|---|---|
-| [Museo](https://github.com/MTDev2024/museo) | [↗ Demo](https://museo-app-zeta.vercel.app/) | React · Three.js · Framer Motion | 3D art exploration app — Boston MFA API |
+| [Museo](https://github.com/MTDev2024/museo) | [↗ Demo](https://museo-app-zeta.vercel.app/) | React · Three.js · Framer Motion | 3D art exploration app - Boston MFA API |
 | [Habit App](https://github.com/MTDev2024/habit-app) | - | Expo · TypeScript · Zustand · Firebase | Mobile habit tracking app with i18n |
 | [Moreau Peinture](https://github.com/MTDev2024/moreau-peinture) | - | Next.js · Tailwind | Client website for a local painting contractor |
 | [SportSee](https://github.com/MTDev2024/sportsee) | - | React · Recharts | Athlete performance dashboard |
