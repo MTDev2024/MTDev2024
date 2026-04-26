@@ -9,7 +9,7 @@
 ---
 
 I build web and mobile interfaces that are clean, fast, and accessible.  
-I care about performance, ecodesign, and writing code that's maintainable —  
+I care about performance, ecodesign, and writing code that's maintainable   
 because a good product isn't just one that works, it's one that lasts.
 
 ---
