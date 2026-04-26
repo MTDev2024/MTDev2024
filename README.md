@@ -63,7 +63,7 @@ Lighthouse · Wave · Ecometer - because fast and accessible sites are better fo
 | [starter-renovation](https://github.com/MTDev2024/starter-renovation) | [↗ Demo](https://starter-renovation.vercel.app/) | Next.js · Tailwind · Resend | Full-featured Next.js template for renovation contractors |
 | [starter-artisan](https://github.com/MTDev2024/starter-artisan) | [↗ Demo](https://starter-artisan.vercel.app/) | Next.js · Tailwind · Resend | Next.js template for local contractors and small businesses |
 | [Ritmo](https://github.com/MTDev2024/habit-app) | - | Expo · TypeScript · Zustand · Firebase | Mobile habit tracking app with onboarding and streaks |
-| [Museo](https://github.com/MTDev2024/Museo) | [↗ Demo](https://museo-app-zeta.vercel.app/) | React · Three.js · Framer Motion | Interactive art gallery — Art Institute of Chicago API |
+| [Museo](https://github.com/MTDev2024/Museo) | [↗ Demo](https://museo-app-zeta.vercel.app/) | React · Three.js · Framer Motion | Interactive art gallery - Art Institute of Chicago API |
 | [HRnet](https://github.com/MTDev2024/hrnet-react) | [↗ Demo](https://hrnet-react-psi.vercel.app/) | React · Zustand · TanStack Table | jQuery → React migration for an HR tool · 100/100 accessibility |
 | [SportSee](https://github.com/MTDev2024/SportSeeApp) | - | React · Recharts | Athlete performance dashboard |
 | [Argent Bank](https://github.com/MTDev2024/Argent-Bank) | - | React · Redux Toolkit | Banking app with JWT authentication |
